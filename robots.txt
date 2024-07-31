@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://literseu.github.io/sitemap.html.gz
+Sitemap: https://literseu.github.io/app/sitemap.html.gz
+Sitemap: https://literseu.github.io/assets/sitemap.html.gz
+Sitemap: https://literseu.github.io/css/sitemap.html.gz
+Sitemap: https://literseu.github.io/includes/sitemap.html.gz
+Sitemap: https://literseu.github.io/item/sitemap.html.gz
+Sitemap: https://literseu.github.io/src/sitemap.html.gz
